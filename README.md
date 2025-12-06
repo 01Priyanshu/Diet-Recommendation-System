@@ -38,7 +38,7 @@ A content-based recommendation engine is a type of recommendation system that us
 ### Model developement
 The recommendation engine is built using Nearest Neighbors alogrithm which is an unsupervised learner for implementing neighbor searches. It acts as a uniform interface to three different nearest neighbors algorithms: BallTree, KDTree, and a brute-force algorithm based on routines in sklearn.metrics.pairwise. For our case, we used the brute-force algorithm using cosine similarity due to its fast computation for small datasets.
 
-$$cos(theta) = (A * B) / (||A|| * ||B||)$$
+$$cos(theta) = (A * B) / (||A|| * ||B||)$$  
 
 ### Dataset
 I used Food.com kaggle dataset Data with over 500,000 recipes and 1,400,000 reviews from Food.com. Visit this [kaggle](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews?select=recipes.csv) link for more details.
@@ -92,6 +92,7 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
 
 
 
