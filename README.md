@@ -8,7 +8,7 @@
 ## :bookmark_tabs:Table of contents
 * [General info](#general-info)
 * [Development](#development)
-* [Technologies](#technologies)  
+* [Technologies](#technologies)     
 * [Setup](#setup)
 
 ## :scroll: General info      
@@ -92,6 +92,7 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
 
 
 
