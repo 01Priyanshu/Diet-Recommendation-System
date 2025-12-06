@@ -19,7 +19,7 @@ A food recommendation engine using a content-based approach is an important tool
 
 ### What is a content-based recommendation engine?
 A content-based recommendation engine is a type of recommendation system that uses the characteristics or content of an item to recommend similar items to users. It works by analyzing the content of items, such as text, images, or audio, and identifying patterns or features that are associated with certain items. These patterns or features are then used to compare items and recommend similar ones to users.
-<div align= "center"><img src="Assets/content_based_img.webp" /></div>
+<div align= "center"><img src="Assets/content_based_img.webp" /></div>   
 
 ### Why content-based approach?
 
@@ -92,6 +92,7 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
 
 
 
