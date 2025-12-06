@@ -3,7 +3,7 @@
   <h4>A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
-# Diet-Recommendation-System
+# Diet-Recommendation-System  
 
 ## :bookmark_tabs:Table of contents
 * [General info](#general-info)
@@ -92,3 +92,4 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
