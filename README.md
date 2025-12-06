@@ -30,7 +30,7 @@ A content-based recommendation engine is a type of recommendation system that us
 * Content-based filtering systems are generally easier to create.
 
 ### Challenges of content-based approach
-* There’s a lack of novelty and diversity.
+* There’s a lack of novelty and diversity.  
 * Scalability is a challenge.
 * Attributes may be incorrect or inconsistent. 
 
@@ -92,6 +92,7 @@ PS: You should have docker and docker-compose already installed
 ### Use the hosted version on Streamlit Cloud
 
 https://diet-recommendation-system.streamlit.app/
+
 
 
 
